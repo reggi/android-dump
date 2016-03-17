@@ -173,3 +173,78 @@ ls
 node ./standard 
 node ./trymodule 
 node ./trymodule colors
+npm i anywhere -g
+ls
+echo "hello world" > index.html
+anywhere
+standard
+node ./data/data/com.termux/files/usr/bin/standard
+cd /data/data/com.termux/files/usr/bin/standard
+cd /data/data/com.termux/files/usr/bin/
+ls
+node ./anywhere 
+pwd
+3
+cle
+ls
+node /data/data/com.termux/files/usr/bin/anywhere 
+cd
+node /data/data/com.termux/files/usr/bin/anywhere 
+node /data/data/com.termux/files/usr/bin/anywhere 
+sudo node /data/data/com.termux/files/usr/bin/anywhere 
+sudo node /data/data/com.termux/files/usr/bin/anywhere --port 3000
+node /data/data/com.termux/files/usr/bin/anywhere --port 3000
+node /data/data/com.termux/files/usr/bin/anywhere help
+node /data/data/com.termux/files/usr/bin/anywhere --help
+node /data/data/com.termux/files/usr/bin/anywhere -p 3000
+node /data/data/com.termux/files/usr/bin/anywhere -p 3001
+node /data/data/com.termux/files/usr/bin/anywhere -p 8080
+npm i simple-server -g
+node /data/data/com.termux/files/usr/bin/simple-server help
+ls
+cat help 
+node /data/data/com.termux/files/usr/bin/simple-server
+ls
+rm help
+ls
+git status
+git init
+ls
+git add -a
+git add -A
+git status
+rf -rf .git
+rm -rf .git
+echo '.npm' > .gitignore
+echo '.trymodule' > .gitignore
+git init
+git status
+cat .gitignore 
+echo '.npm' >> .gitignore
+cat .gitignore 
+git status
+git add -a
+git add -A
+git status
+git commit -m "init"
+git config --global user.email "thomas@reggi.com"
+git config --global user.name "reggi"
+git commit -m "init"
+ls
+git atatus
+git status
+cat .gitconfig 
+git add -a
+git add -A
+trymodule
+standard
+cat /data/data/com.termux/files/usr/bin/standard 
+apt install coreutils
+trymodule lodash
+coreutils -i
+coreutils --help
+coreutils
+trymodule lodash
+trymodule lodash
+npm i trymodule -g
+trymodule lodash
